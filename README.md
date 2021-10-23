@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohdtahseen7
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML/CSS JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on JS
 - 📫 How to reach me ...
 
 <!---
