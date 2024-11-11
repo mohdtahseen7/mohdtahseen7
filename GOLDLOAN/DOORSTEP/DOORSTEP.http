@@ -1,0 +1,6 @@
+@DOORSTEP_HostAddress = http://localhost:5118
+
+GET {{DOORSTEP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
